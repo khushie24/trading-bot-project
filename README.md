@@ -59,7 +59,7 @@ trading_bot/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/trading-bot-project.git
+git clone https://github.com/khushie24/trading-bot-project.git
 cd trading-bot-project
 ```
 
